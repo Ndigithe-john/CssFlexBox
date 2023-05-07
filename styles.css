@@ -51,9 +51,15 @@
 }
 .score {
   text-align: center;
+  color: white;
 }
-
-.summary {
+.results > h3 {
+  color: white;
+}
+.results > h2 {
+  color: white;
+}
+.results .summary {
   width: 300px;
   display: flex;
   flex-direction: column;
